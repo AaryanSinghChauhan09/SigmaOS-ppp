@@ -3,7 +3,7 @@ name = "SigmaOS-ppp"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "ppp component"
+description = "PPP"
 upstream = []
 
 [contract]
